@@ -1,0 +1,1138 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Complete Spanish Pronunciation and IPA Guide</title>
+<style>
+  body {
+    font-family: "Noto Sans", "Charis SIL", "DejaVu Sans", "Arial Unicode MS", Arial, sans-serif;
+    line-height: 1.55;
+    max-width: 900px;
+    margin: 40px auto;
+    padding: 0 30px;
+    color: #222;
+  }
+
+  h1, h2, h3 {
+    color: #111;
+    line-height: 1.25;
+  }
+
+  h1 {
+    text-align: center;
+    font-size: 32px;
+    border-bottom: 3px solid #222;
+    padding-bottom: 15px;
+  }
+
+  h2 {
+    margin-top: 40px;
+    border-bottom: 1px solid #aaa;
+    padding-bottom: 5px;
+  }
+
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 18px 0;
+    font-size: 15px;
+  }
+
+  th, td {
+    border: 1px solid #bbb;
+    padding: 8px 10px;
+    vertical-align: top;
+  }
+
+  th {
+    background: #f0f0f0;
+  }
+
+  code {
+    font-family: "Charis SIL", "DejaVu Sans Mono", monospace;
+    background: #f5f5f5;
+    padding: 1px 4px;
+    border-radius: 3px;
+  }
+
+  .note {
+    background: #f7f7f7;
+    border-left: 4px solid #555;
+    padding: 12px 16px;
+    margin: 18px 0;
+  }
+
+  .practice {
+    background: #f9fbff;
+    border-left: 4px solid #337ab7;
+    padding: 12px 16px;
+    margin: 18px 0;
+  }
+
+  @media print {
+    body {
+      margin: 20px;
+      max-width: none;
+      font-size: 12pt;
+    }
+
+    h1 {
+      font-size: 26pt;
+    }
+
+    h2 {
+      page-break-after: avoid;
+    }
+
+    table {
+      page-break-inside: avoid;
+    }
+  }
+</style>
+</head>
+
+<body>
+
+<h1>Complete Spanish Pronunciation and IPA Guide</h1>
+
+<p>
+This guide focuses on <strong>standard European/Castilian Spanish</strong>, similar to educated speech from Madrid or north-central Spain.
+Since you live in <strong>Málaga</strong>, Andalusian pronunciation notes are included so you can understand what locals do differently.
+</p>
+
+<div class="note">
+<p><strong>IPA notation:</strong></p>
+<ul>
+  <li><code>/ /</code> = phoneme, the mental sound category.</li>
+  <li><code>[ ]</code> = exact pronunciation or allophone.</li>
+</ul>
+<p>
+Example: Spanish <code>/b/</code> can be pronounced as a full stop <code>[b]</code> or a softer approximant <code>[β̞]</code>, depending on position.
+</p>
+</div>
+
+<h2>1. Big Differences Between Spanish and English Pronunciation</h2>
+
+<ul>
+  <li><strong>Spanish vowels are pure.</strong> There is no English-style schwa reduction in normal careful speech.</li>
+  <li><strong>Spanish rhythm is more syllable-timed.</strong> Every syllable tends to be clearer than in English.</li>
+  <li><strong>Spanish <code>/p t k/</code> are not aspirated.</strong> English <em>pie, tie, kite</em> have a puff of air; Spanish <em>pa, ta, ca</em> do not.</li>
+  <li><strong>Spanish <code>/t/</code> and <code>/d/</code> are dental.</strong> The tongue touches the back of the upper teeth, not the English alveolar ridge.</li>
+  <li><strong>B and V are the same sound</strong> in modern Spanish.</li>
+  <li><strong>Standard Castilian distinguishes <code>/s/</code> and <code>/θ/</code>.</strong> This is the difference between <em>casa</em> and <em>caza</em>.</li>
+  <li><strong>Written H is silent.</strong> <em>hola</em> = <code>/ˈola/</code>.</li>
+</ul>
+
+<h2>2. Spanish Vowels</h2>
+
+<p>
+Spanish has five basic vowel phonemes. They are short, clear, stable, and do not usually reduce.
+</p>
+
+<table>
+<thead>
+<tr>
+<th>IPA</th>
+<th>Example</th>
+<th>Articulation</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>/a/</code></td>
+<td><strong>a</strong>gua <code>/ˈaɣwa/</code>, c<strong>a</strong>sa <code>/ˈkasa/</code></td>
+<td>Open central/front vowel. Jaw open, lips neutral. Similar to a clean “ah,” but not too far back.</td>
+</tr>
+<tr>
+<td><code>/e/</code></td>
+<td>m<strong>e</strong>sa <code>/ˈmesa/</code>, p<strong>e</strong>ro <code>/ˈpeɾo/</code></td>
+<td>Mid front unrounded vowel. Tongue forward, jaw moderately open. Do not make it into English <code>/eɪ/</code>.</td>
+</tr>
+<tr>
+<td><code>/i/</code></td>
+<td>s<strong>í</strong> <code>/si/</code>, v<strong>i</strong>no <code>/ˈbino/</code></td>
+<td>High front unrounded vowel. Similar to English “ee,” but shorter and cleaner.</td>
+</tr>
+<tr>
+<td><code>/o/</code></td>
+<td>s<strong>o</strong>lo <code>/ˈsolo/</code>, n<strong>o</strong> <code>/no/</code></td>
+<td>Mid back rounded vowel. Do not pronounce it like English <code>/oʊ/</code>; avoid the glide.</td>
+</tr>
+<tr>
+<td><code>/u/</code></td>
+<td>t<strong>ú</strong> <code>/tu/</code>, l<strong>u</strong>na <code>/ˈluna/</code></td>
+<td>High back rounded vowel. Lips rounded, tongue high and back. Shorter and purer than English “oo.”</td>
+</tr>
+</tbody>
+</table>
+
+<h3>Important Vowel Rule</h3>
+
+<p>
+English often turns unstressed vowels into schwa <code>/ə/</code>. Spanish does not do this in standard pronunciation.
+</p>
+
+<table>
+<thead>
+<tr>
+<th>Word</th>
+<th>Spanish Pronunciation</th>
+<th>Do Not Say</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>banana</td>
+<td><code>/baˈnana/</code></td>
+<td>Not “buh-NA-nuh”</td>
+</tr>
+<tr>
+<td>teléfono</td>
+<td><code>/teˈlefono/</code></td>
+<td>Not “tuh-LEH-fuh-no”</td>
+</tr>
+<tr>
+<td>Madrid</td>
+<td><code>/maˈðɾið/</code> or careful <code>/maˈdɾid/</code></td>
+<td>Not “muh-DRID”</td>
+</tr>
+</tbody>
+</table>
+
+<h3>Diphthongs and Glides</h3>
+
+<p>
+Spanish also has glides, usually written with <code>i/y</code> or <code>u</code>. In IPA these are often written <code>[j]</code> and <code>[w]</code>.
+</p>
+
+<table>
+<thead>
+<tr>
+<th>IPA</th>
+<th>Example</th>
+<th>Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>/ja/</code>, <code>/je/</code>, <code>/jo/</code></td>
+<td>t<strong>ie</strong>ne <code>/ˈtjene/</code>, famil<strong>ia</strong> <code>/faˈmilja/</code></td>
+<td>Quick <code>/i/</code>-like movement before a vowel.</td>
+</tr>
+<tr>
+<td><code>/wa/</code>, <code>/we/</code>, <code>/wo/</code></td>
+<td>c<strong>ua</strong>tro <code>/ˈkwatɾo/</code>, b<strong>ue</strong>no <code>/ˈbweno/</code></td>
+<td>Quick <code>/u/</code>-like movement before a vowel.</td>
+</tr>
+<tr>
+<td><code>/ai̯/</code>, <code>/ei̯/</code>, <code>/oi̯/</code></td>
+<td><strong>ai</strong>re <code>/ˈai̯ɾe/</code>, l<strong>ey</strong> <code>/lei̯/</code>, h<strong>oy</strong> <code>/oi̯/</code></td>
+<td>Falling diphthongs ending in an <code>i</code>-like glide.</td>
+</tr>
+<tr>
+<td><code>/au̯/</code>, <code>/eu̯/</code></td>
+<td>c<strong>au</strong>sa <code>/ˈkau̯sa/</code>, <strong>Eu</strong>ropa <code>/eu̯ˈɾopa/</code></td>
+<td>Falling diphthongs ending in a <code>u</code>-like glide.</td>
+</tr>
+</tbody>
+</table>
+
+<h2>3. Spanish Consonants in IPA</h2>
+
+<h3>Stops and Stop-like Consonants</h3>
+
+<table>
+<thead>
+<tr>
+<th>IPA</th>
+<th>Example</th>
+<th>Articulation</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>/p/</code></td>
+<td><strong>p</strong>an <code>/pan/</code></td>
+<td>Voiceless bilabial stop. Close both lips, release without strong aspiration. Spanish <code>/p/</code> is softer than English initial <em>p</em>.</td>
+</tr>
+<tr>
+<td><code>/b/</code></td>
+<td><strong>b</strong>eso <code>/ˈbeso/</code>, <strong>v</strong>ino <code>/ˈbino/</code></td>
+<td>B and V are the same phoneme in Spanish. Pronounced <code>[b]</code> after a pause or nasal; usually softer <code>[β̞]</code> between vowels.</td>
+</tr>
+<tr>
+<td><code>/t/</code></td>
+<td><strong>t</strong>aza <code>/ˈtaθa/</code></td>
+<td>Voiceless dental stop <code>[t̪]</code>. Tongue touches the back of the upper teeth. No English-style aspiration.</td>
+</tr>
+<tr>
+<td><code>/d/</code></td>
+<td><strong>d</strong>ía <code>/ˈdia/</code></td>
+<td>Voiced dental stop or approximant. Strong <code>[d̪]</code> after pause, nasal, or <code>/l/</code>; softer <code>[ð̞]</code> between vowels.</td>
+</tr>
+<tr>
+<td><code>/k/</code></td>
+<td><strong>c</strong>asa <code>/ˈkasa/</code>, <strong>qu</strong>eso <code>/ˈkeso/</code></td>
+<td>Voiceless velar stop. Back of tongue touches soft palate. No strong puff of air.</td>
+</tr>
+<tr>
+<td><code>/ɡ/</code></td>
+<td><strong>g</strong>ato <code>/ˈɡato/</code>, <strong>gu</strong>ía <code>/ˈɡia/</code></td>
+<td>Voiced velar stop or approximant. Strong <code>[ɡ]</code> after pause or nasal; softer <code>[ɣ̞]</code> between vowels.</td>
+</tr>
+</tbody>
+</table>
+
+<h3>Fricatives and Similar Sounds</h3>
+
+<table>
+<thead>
+<tr>
+<th>IPA</th>
+<th>Example</th>
+<th>Articulation</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>/f/</code></td>
+<td><strong>f</strong>amilia <code>/faˈmilja/</code></td>
+<td>Voiceless labiodental fricative. Upper teeth touch lower lip; blow air.</td>
+</tr>
+<tr>
+<td><code>/θ/</code></td>
+<td><strong>z</strong>apato <code>/θaˈpato/</code>, <strong>c</strong>inco <code>/ˈθinko/</code></td>
+<td>Voiceless dental fricative, like English <em>th</em> in <em>think</em>. This is used in standard Castilian Spanish for <strong>z</strong> and <strong>c</strong> before <strong>e/i</strong>.</td>
+</tr>
+<tr>
+<td><code>/s/</code></td>
+<td><strong>s</strong>ol <code>/sol/</code>, ca<strong>s</strong>a <code>/ˈkasa/</code></td>
+<td>Voiceless sibilant. In much of Spain it is often apical/retracted <code>[s̺]</code>, made with the tongue tip slightly raised. Do not voice it as English <code>/z/</code> between vowels.</td>
+</tr>
+<tr>
+<td><code>/x/</code></td>
+<td><strong>j</strong>amón <code>/xaˈmon/</code>, <strong>g</strong>ente <code>/ˈxente/</code></td>
+<td>Voiceless velar fricative. Back of tongue approaches the soft palate; create friction. Stronger than English <code>/h/</code>.</td>
+</tr>
+<tr>
+<td><code>/ʝ/</code></td>
+<td><strong>y</strong>o <code>/ʝo/</code>, <strong>ll</strong>ave <code>/ˈʝaβe/</code></td>
+<td>Voiced palatal approximant/fricative. In most of Spain, <strong>y</strong> and <strong>ll</strong> are pronounced the same. After pause, nasal, or <code>/l/</code>, it may sound stronger, like <code>[ɟʝ]</code>.</td>
+</tr>
+</tbody>
+</table>
+
+<h3>Affricate</h3>
+
+<table>
+<thead>
+<tr>
+<th>IPA</th>
+<th>Example</th>
+<th>Articulation</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>/tʃ/</code></td>
+<td><strong>ch</strong>ico <code>/ˈtʃiko/</code></td>
+<td>Voiceless postalveolar affricate, like English <em>ch</em> in <em>church</em>, but usually shorter and cleaner.</td>
+</tr>
+</tbody>
+</table>
+
+<h3>Nasals</h3>
+
+<table>
+<thead>
+<tr>
+<th>IPA</th>
+<th>Example</th>
+<th>Articulation</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>/m/</code></td>
+<td><strong>m</strong>ano <code>/ˈmano/</code></td>
+<td>Bilabial nasal. Lips closed; air through nose.</td>
+</tr>
+<tr>
+<td><code>/n/</code></td>
+<td><strong>n</strong>ada <code>/ˈnaða/</code></td>
+<td>Alveolar/dental nasal. Tongue touches near the teeth or alveolar ridge; air through nose.</td>
+</tr>
+<tr>
+<td><code>/ɲ/</code></td>
+<td>ni<strong>ñ</strong>o <code>/ˈniɲo/</code>, a<strong>ñ</strong>o <code>/ˈaɲo/</code></td>
+<td>Palatal nasal. Middle of tongue touches the hard palate. Similar to <em>ny</em>, but it is one sound, not two separate sounds.</td>
+</tr>
+</tbody>
+</table>
+
+<div class="note">
+<p>
+Spanish <code>/n/</code> changes place depending on the next consonant:
+</p>
+<ul>
+  <li><strong>un beso</strong> → <code>[um ˈbeso]</code></li>
+  <li><strong>un gato</strong> → <code>[uŋ ˈɡato]</code></li>
+  <li><strong>un chico</strong> → often <code>[un ˈtʃiko]</code> or slightly adjusted to the following sound</li>
+</ul>
+</div>
+
+<h3>Liquids: L, Tap R, and Trilled R</h3>
+
+<table>
+<thead>
+<tr>
+<th>IPA</th>
+<th>Example</th>
+<th>Articulation</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>/l/</code></td>
+<td><strong>l</strong>una <code>/ˈluna/</code></td>
+<td>Alveolar lateral. Tongue tip touches near the alveolar ridge or teeth; air flows around the sides. Spanish <code>/l/</code> is generally clearer than English dark L.</td>
+</tr>
+<tr>
+<td><code>/ɾ/</code></td>
+<td>pe<strong>r</strong>o <code>/ˈpeɾo/</code></td>
+<td>Single tap R. Tongue quickly taps the alveolar ridge once. Very short and light.</td>
+</tr>
+<tr>
+<td><code>/r/</code></td>
+<td>pe<strong>rr</strong>o <code>/ˈpero/</code>, <strong>r</strong>ojo <code>/ˈroxo/</code></td>
+<td>Trilled R. Tongue tip vibrates rapidly against the alveolar ridge. Used for written <strong>rr</strong> and word-initial <strong>r</strong>.</td>
+</tr>
+<tr>
+<td><code>/ʎ/</code></td>
+<td>traditional <strong>ll</strong>ave <code>/ˈʎaβe/</code></td>
+<td>Palatal lateral. Traditional distinction between <strong>ll</strong> and <strong>y</strong>. Most modern Spanish speakers use <code>/ʝ/</code> for both, so this is optional.</td>
+</tr>
+</tbody>
+</table>
+
+<h2>4. Key Spanish Allophones</h2>
+
+<h3>1. B/V: <code>[b]</code> vs <code>[β̞]</code></h3>
+
+<p>
+Spanish <strong>b</strong> and <strong>v</strong> are the same phoneme: <code>/b/</code>.
+</p>
+
+<table>
+<thead>
+<tr>
+<th>Position</th>
+<th>Pronunciation</th>
+<th>Example</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>After pause or nasal</td>
+<td>Strong <code>[b]</code></td>
+<td><strong>vino</strong> <code>[ˈbino]</code>, <strong>un vaso</strong> <code>[um ˈbaso]</code></td>
+</tr>
+<tr>
+<td>Between vowels or after most sounds</td>
+<td>Soft <code>[β̞]</code></td>
+<td><strong>la vida</strong> <code>[la ˈβ̞iða]</code>, <strong>el vaso</strong> <code>[el ˈβ̞aso]</code></td>
+</tr>
+</tbody>
+</table>
+
+<p>
+For <code>[β̞]</code>, bring the lips close together but do not fully close them. It is softer than English <code>/v/</code>; do not use your teeth.
+</p>
+
+<h3>2. D: <code>[d̪]</code> vs <code>[ð̞]</code></h3>
+
+<table>
+<thead>
+<tr>
+<th>Position</th>
+<th>Pronunciation</th>
+<th>Example</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>After pause, nasal, or <code>/l/</code></td>
+<td>Strong dental <code>[d̪]</code></td>
+<td><strong>día</strong> <code>[ˈd̪ia]</code>, <strong>un día</strong> <code>[un ˈd̪ia]</code>, <strong>el día</strong> <code>[el ˈd̪ia]</code></td>
+</tr>
+<tr>
+<td>Between vowels or after most sounds</td>
+<td>Soft <code>[ð̞]</code></td>
+<td><strong>cada</strong> <code>[ˈkað̞a]</code>, <strong>la duda</strong> <code>[la ˈð̞uð̞a]</code></td>
+</tr>
+</tbody>
+</table>
+
+<p>
+This soft <code>[ð̞]</code> is similar to English <em>th</em> in <em>this</em>, but usually weaker and less fricative.
+</p>
+
+<h3>3. G: <code>[ɡ]</code> vs <code>[ɣ̞]</code></h3>
+
+<table>
+<thead>
+<tr>
+<th>Position</th>
+<th>Pronunciation</th>
+<th>Example</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>After pause or nasal</td>
+<td>Strong <code>[ɡ]</code></td>
+<td><strong>gato</strong> <code>[ˈɡato]</code>, <strong>un gato</strong> <code>[uŋ ˈɡato]</code></td>
+</tr>
+<tr>
+<td>Between vowels or after most sounds</td>
+<td>Soft <code>[ɣ̞]</code></td>
+<td><strong>amigo</strong> <code>[aˈmiɣ̞o]</code>, <strong>la guerra</strong> <code>[la ˈɣ̞era]</code></td>
+</tr>
+</tbody>
+</table>
+
+<h3>4. Spanish R Rules</h3>
+
+<table>
+<thead>
+<tr>
+<th>Spelling</th>
+<th>Pronunciation</th>
+<th>Examples</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Single <strong>r</strong> between vowels</td>
+<td>Tap <code>/ɾ/</code></td>
+<td><strong>pero</strong> <code>/ˈpeɾo/</code>, <strong>caro</strong> <code>/ˈkaɾo/</code></td>
+</tr>
+<tr>
+<td><strong>rr</strong></td>
+<td>Trill <code>/r/</code></td>
+<td><strong>perro</strong> <code>/ˈpero/</code>, <strong>carro</strong> <code>/ˈkaro/</code></td>
+</tr>
+<tr>
+<td>Word-initial <strong>r</strong></td>
+<td>Trill <code>/r/</code></td>
+<td><strong>rojo</strong> <code>/ˈroxo/</code>, <strong>rápido</strong> <code>/ˈrapido/</code></td>
+</tr>
+<tr>
+<td>After <strong>n</strong>, <strong>l</strong>, or <strong>s</strong></td>
+<td>Usually trill <code>/r/</code></td>
+<td><strong>Enrique</strong> <code>/enˈrike/</code>, <strong>alrededor</strong> <code>/alreðeˈðoɾ/</code></td>
+</tr>
+<tr>
+<td>Final <strong>r</strong></td>
+<td>Usually tap <code>/ɾ/</code>, sometimes stronger in emphasis</td>
+<td><strong>comer</strong> <code>/koˈmeɾ/</code>, <strong>hablar</strong> <code>/aˈβ̞laɾ/</code></td>
+</tr>
+</tbody>
+</table>
+
+<h2>5. Spelling-to-Sound Rules</h2>
+
+<table>
+<thead>
+<tr>
+<th>Spelling</th>
+<th>Sound</th>
+<th>Examples</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>h</strong></td>
+<td>Silent</td>
+<td><strong>hola</strong> <code>/ˈola/</code>, <strong>hacer</strong> <code>/aˈθeɾ/</code></td>
+</tr>
+<tr>
+<td><strong>b</strong>, <strong>v</strong></td>
+<td><code>/b/</code></td>
+<td><strong>baca</strong> and <strong>vaca</strong> both <code>/ˈbaka/</code></td>
+</tr>
+<tr>
+<td><strong>c</strong> before <strong>a/o/u</strong></td>
+<td><code>/k/</code></td>
+<td><strong>casa</strong> <code>/ˈkasa/</code>, <strong>cosa</strong> <code>/ˈkosa/</code></td>
+</tr>
+<tr>
+<td><strong>c</strong> before <strong>e/i</strong></td>
+<td><code>/θ/</code> in standard Castilian</td>
+<td><strong>cena</strong> <code>/ˈθena/</code>, <strong>cinco</strong> <code>/ˈθinko/</code></td>
+</tr>
+<tr>
+<td><strong>z</strong></td>
+<td><code>/θ/</code> in standard Castilian</td>
+<td><strong>zapato</strong> <code>/θaˈpato/</code>, <strong>luz</strong> <code>/luθ/</code></td>
+</tr>
+<tr>
+<td><strong>qu</strong> before <strong>e/i</strong></td>
+<td><code>/k/</code></td>
+<td><strong>queso</strong> <code>/ˈkeso/</code>, <strong>quince</strong> <code>/ˈkinθe/</code></td>
+</tr>
+<tr>
+<td><strong>g</strong> before <strong>a/o/u</strong></td>
+<td><code>/ɡ/</code></td>
+<td><strong>gato</strong> <code>/ˈɡato/</code>, <strong>gusto</strong> <code>/ˈɡusto/</code></td>
+</tr>
+<tr>
+<td><strong>g</strong> before <strong>e/i</strong></td>
+<td><code>/x/</code></td>
+<td><strong>gente</strong> <code>/ˈxente/</code>, <strong>girar</strong> <code>/xiˈɾaɾ/</code></td>
+</tr>
+<tr>
+<td><strong>gu</strong> before <strong>e/i</strong></td>
+<td><code>/ɡ/</code>; the <strong>u</strong> is silent</td>
+<td><strong>guerra</strong> <code>/ˈɡera/</code>, <strong>guitarra</strong> <code>/ɡiˈtara/</code></td>
+</tr>
+<tr>
+<td><strong>gü</strong> before <strong>e/i</strong></td>
+<td><code>/ɡw/</code></td>
+<td><strong>pingüino</strong> <code>/pinˈɡwino/</code>, <strong>vergüenza</strong> <code>/berˈɡwenθa/</code></td>
+</tr>
+<tr>
+<td><strong>j</strong></td>
+<td><code>/x/</code></td>
+<td><strong>jamón</strong> <code>/xaˈmon/</code>, <strong>ojo</strong> <code>/ˈoxo/</code></td>
+</tr>
+<tr>
+<td><strong>ll</strong>, <strong>y</strong></td>
+<td>Usually <code>/ʝ/</code></td>
+<td><strong>llave</strong> <code>/ˈʝaβe/</code>, <strong>yo</strong> <code>/ʝo/</code></td>
+</tr>
+</tbody>
+</table>
+
+<h2>6. Málaga and Andalusian Spanish: What You Will Hear Locally</h2>
+
+<p>
+In Málaga, many speakers use Andalusian features. These are normal and native, but if your target is standard “classic” Castilian Spanish, practice the standard forms on the right.
+</p>
+
+<table>
+<thead>
+<tr>
+<th>Feature</th>
+<th>Málaga / Andalusian Tendency</th>
+<th>Standard Castilian Target</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Final <code>/s/</code></td>
+<td>Often aspirated or dropped: <strong>los amigos</strong> → <code>[loh aˈmiɣoh]</code> or <code>[lo aˈmiɣo]</code></td>
+<td>Pronounce final <code>/s/</code>: <code>/los aˈmiɣos/</code></td>
+</tr>
+<tr>
+<td><code>/s/</code> vs <code>/θ/</code></td>
+<td>Some areas have <em>seseo</em> or <em>ceceo</em>, merging the sounds.</td>
+<td>Keep them distinct: <strong>casa</strong> <code>/ˈkasa/</code> vs <strong>caza</strong> <code>/ˈkaθa/</code></td>
+</tr>
+<tr>
+<td><code>/x/</code></td>
+<td>Often softer, like <code>[h]</code>: <strong>jamón</strong> <code>[haˈmon]</code></td>
+<td>Use velar <code>[x]</code>: <code>/xaˈmon/</code></td>
+</tr>
+<tr>
+<td>Final <code>/d/</code></td>
+<td>May weaken or disappear: <strong>Madrid</strong> → <code>[maˈðɾi]</code></td>
+<td>Keep a light final consonant: <code>/maˈðɾið/</code> or careful <code>/maˈdɾid/</code></td>
+</tr>
+<tr>
+<td><strong>-ado</strong></td>
+<td>Often <code>[ao]</code>: <strong>cansado</strong> → <code>[kanˈsao]</code></td>
+<td>Standard: <code>/kanˈsaðo/</code></td>
+</tr>
+</tbody>
+</table>
+
+<div class="note">
+<p>
+For daily life in Málaga, understanding these local features is very useful. But for a standard Castilian target, keep:
+</p>
+<ul>
+  <li>final <code>/s/</code> clear,</li>
+  <li><code>/s/</code> and <code>/θ/</code> separate,</li>
+  <li><code>/x/</code> stronger than English <code>/h/</code>,</li>
+  <li>unstressed vowels clear, not reduced.</li>
+</ul>
+</div>
+
+<h2>7. Minimal Pair Practice</h2>
+
+<h3><code>/s/</code> vs <code>/θ/</code> — Very Important for Castilian Spanish</h3>
+
+<table>
+<thead>
+<tr>
+<th><code>/s/</code></th>
+<th><code>/θ/</code></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>casa <code>/ˈkasa/</code></td>
+<td>caza <code>/ˈkaθa/</code></td>
+</tr>
+<tr>
+<td>tasa <code>/ˈtasa/</code></td>
+<td>taza <code>/ˈtaθa/</code></td>
+</tr>
+<tr>
+<td>siento <code>/ˈsjento/</code></td>
+<td>ciento <code>/ˈθjento/</code></td>
+</tr>
+<tr>
+<td>sima <code>/ˈsima/</code></td>
+<td>cima <code>/ˈθima/</code></td>
+</tr>
+<tr>
+<td>sesión <code>/seˈsjon/</code></td>
+<td>cesión <code>/θeˈsjon/</code></td>
+</tr>
+</tbody>
+</table>
+
+<h3>Tap R <code>/ɾ/</code> vs Trilled R <code>/r/</code></h3>
+
+<table>
+<thead>
+<tr>
+<th>Tap <code>/ɾ/</code></th>
+<th>Trill <code>/r/</code></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>pero <code>/ˈpeɾo/</code></td>
+<td>perro <code>/ˈpero/</code></td>
+</tr>
+<tr>
+<td>caro <code>/ˈkaɾo/</code></td>
+<td>carro <code>/ˈkaro/</code></td>
+</tr>
+<tr>
+<td>coro <code>/ˈkoɾo/</code></td>
+<td>corro <code>/ˈkoro/</code></td>
+</tr>
+<tr>
+<td>para <code>/ˈpaɾa/</code></td>
+<td>parra <code>/ˈpara/</code></td>
+</tr>
+</tbody>
+</table>
+
+<h3>Vowel Contrasts</h3>
+
+<table>
+<thead>
+<tr>
+<th>Contrast</th>
+<th>Examples</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>/e/</code> vs <code>/i/</code></td>
+<td>peso/piso, mesa/misa, pero/piró</td>
+</tr>
+<tr>
+<td><code>/o/</code> vs <code>/u/</code></td>
+<td>coro/curo, como/cumo, loco/lucro</td>
+</tr>
+<tr>
+<td><code>/a/</code> vs <code>/e/</code></td>
+<td>pala/pelea, sal/sel, casa/quesa-like practice form</td>
+</tr>
+<tr>
+<td><code>/a/</code> vs <code>/o/</code></td>
+<td>casa/cosa, para/poro, mal/mol</td>
+</tr>
+</tbody>
+</table>
+
+<h2>8. Targeted Articulation Exercises</h2>
+
+<div class="practice">
+<h3>Exercise 1: Pure Spanish Vowels</h3>
+
+<p>Say the vowel ladder slowly and evenly:</p>
+
+<p><code>/a e i o u/</code></p>
+
+<p><strong>Words:</strong></p>
+<p>casa, mesa, vino, solo, luna</p>
+
+<p><strong>Practice sentence:</strong></p>
+<p><strong>La casa de mi amigo tiene una luna bonita.</strong></p>
+
+<p>
+Focus: no English-style diphthongs. <strong>e</strong> is not <code>/eɪ/</code>; <strong>o</strong> is not <code>/oʊ/</code>.
+</p>
+</div>
+
+<div class="practice">
+<h3>Exercise 2: Dental <code>/t/</code> and <code>/d/</code></h3>
+
+<p>
+Put the tongue against the back of the upper teeth. Spanish <code>/t/</code> and <code>/d/</code> are more dental than English.
+</p>
+
+<p><strong>Words:</strong></p>
+<p>taza, todo, tema, dato, día, donde, nada, cada</p>
+
+<p><strong>Sentences:</strong></p>
+<ol>
+<li>Todo está dentro de la tienda.</li>
+<li>David tiene dos tazas de té.</li>
+<li>Cada día todo cambia.</li>
+</ol>
+</div>
+
+<div class="practice">
+<h3>Exercise 3: B/V as One Sound</h3>
+
+<p>
+Do not pronounce Spanish <strong>v</strong> as English <code>/v/</code>. Use lips, not teeth.
+</p>
+
+<p><strong>Strong <code>[b]</code>:</strong></p>
+<p>vino, beso, un vaso, un barco</p>
+
+<p><strong>Soft <code>[β̞]</code>:</strong></p>
+<p>la vida, el vino, mi barco, una vaca</p>
+
+<p><strong>Sentence:</strong></p>
+<p><strong>Bebo vino blanco en verano.</strong></p>
+</div>
+
+<div class="practice">
+<h3>Exercise 4: Soft <code>[ð̞]</code> and <code>[ɣ̞]</code></h3>
+
+<p>
+Between vowels, Spanish <code>/d/</code> and <code>/ɡ/</code> become softer.
+</p>
+
+<p><strong>D practice:</strong></p>
+<p>cada, nada, todo, vida, ciudad</p>
+
+<p><strong>G practice:</strong></p>
+<p>amigo, luego, agua, pagar, seguir</p>
+
+<p><strong>Sentences:</strong></p>
+<ol>
+<li>Cada amigo llega luego.</li>
+<li>La vida de Diego es tranquila.</li>
+<li>Pago el agua cada día.</li>
+</ol>
+</div>
+
+<div class="practice">
+<h3>Exercise 5: Castilian <code>/θ/</code> vs <code>/s/</code></h3>
+
+<p>
+For <code>/θ/</code>, place the tongue near or lightly between the teeth, like English <em>th</em> in <em>think</em>.
+For <code>/s/</code>, keep the tongue inside the mouth and make a clear sibilant.
+</p>
+
+<p><strong>Pairs:</strong></p>
+<p>casa/caza, tasa/taza, siento/ciento, sima/cima, sesión/cesión</p>
+
+<p><strong>Sentences:</strong></p>
+<ol>
+<li>Cecilia cena cinco cerezas.</li>
+<li>Susana se sienta sola en su casa.</li>
+<li>La caza no es lo mismo que la casa.</li>
+</ol>
+</div>
+
+<div class="practice">
+<h3>Exercise 6: Spanish <code>/x/</code></h3>
+
+<p>
+For standard Castilian Spanish, <code>/x/</code> is stronger than English <code>/h/</code>. Raise the back of the tongue toward the soft palate and let air create friction.
+</p>
+
+<p><strong>Words:</strong></p>
+<p>jamón, gente, jefe, joven, ojo, rojo, trabajo</p>
+
+<p><strong>Sentences:</strong></p>
+<ol>
+<li>Jorge trabaja con gente joven.</li>
+<li>El jamón está debajo del ojo del gato.</li>
+<li>Juan juega junto al jardín.</li>
+</ol>
+</div>
+
+<div class="practice">
+<h3>Exercise 7: <code>/ɲ/</code> Ñ Sound</h3>
+
+<p>
+The sound <code>/ɲ/</code> is one palatal nasal, not two separate sounds.
+</p>
+
+<p><strong>Words:</strong></p>
+<p>niño, niña, año, baño, mañana, español</p>
+
+<p><strong>Sentences:</strong></p>
+<ol>
+<li>El niño se baña por la mañana.</li>
+<li>Este año estudio español en España.</li>
+<li>La niña come piña.</li>
+</ol>
+</div>
+
+<div class="practice">
+<h3>Exercise 8: Tap R <code>/ɾ/</code></h3>
+
+<p>
+The tap R is one quick tongue contact. Do not pronounce it like English R.
+</p>
+
+<p><strong>Syllables:</strong></p>
+<p>ara, ere, iri, oro, uru</p>
+
+<p><strong>Words:</strong></p>
+<p>pero, caro, para, mirar, comer, hablar</p>
+
+<p><strong>Sentences:</strong></p>
+<ol>
+<li>Pero quiero comer ahora.</li>
+<li>María mira el mar.</li>
+<li>Para hablar claro, practica el sonido.</li>
+</ol>
+</div>
+
+<div class="practice">
+<h3>Exercise 9: Trilled R <code>/r/</code></h3>
+
+<p>
+For the trill, keep the tongue tip relaxed near the alveolar ridge. Airflow makes the tongue vibrate. Do not force it with muscle tension.
+</p>
+
+<p><strong>Build-up drill:</strong></p>
+<ol>
+<li>Say a fast dental <strong>d</strong>: <code>da-da-da-da</code>.</li>
+<li>Move to quick taps: <code>ara, ara, ara</code>.</li>
+<li>Try longer vibration: <code>rrrr</code>.</li>
+<li>Practice in words.</li>
+</ol>
+
+<p><strong>Words:</strong></p>
+<p>perro, carro, rojo, rápido, arriba, tierra, guerra</p>
+
+<p><strong>Sentences:</strong></p>
+<ol>
+<li>El perro corre rápido.</li>
+<li>Rosa tiene un carro rojo.</li>
+<li>Arriba hay tierra roja.</li>
+</ol>
+</div>
+
+<h2>9. Stress, Accent Marks, and Rhythm</h2>
+
+<h3>Basic Stress Rules</h3>
+
+<table>
+<thead>
+<tr>
+<th>Word Type</th>
+<th>Stress Rule</th>
+<th>Examples</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Words ending in vowel, <strong>n</strong>, or <strong>s</strong></td>
+<td>Stress the second-to-last syllable</td>
+<td><strong>casa</strong> <code>/ˈkasa/</code>, <strong>hablan</strong> <code>/ˈaβlan/</code>, <strong>lunes</strong> <code>/ˈlunes/</code></td>
+</tr>
+<tr>
+<td>Words ending in other consonants</td>
+<td>Stress the last syllable</td>
+<td><strong>hablar</strong> <code>/aˈβlaɾ/</code>, <strong>ciudad</strong> <code>/θjuˈðað/</code>, <strong>reloj</strong> <code>/reˈlox/</code></td>
+</tr>
+<tr>
+<td>Words with written accent marks</td>
+<td>Stress the marked syllable</td>
+<td><strong>teléfono</strong> <code>/teˈlefono/</code>, <strong>café</strong> <code>/kaˈfe/</code>, <strong>Málaga</strong> <code>/ˈmalaɣa/</code></td>
+</tr>
+</tbody>
+</table>
+
+<h3>Spanish Rhythm</h3>
+
+<p>
+Spanish does not reduce unstressed syllables as strongly as English. Practice making every vowel clear:
+</p>
+
+<p><strong>Me gusta vivir en Málaga porque la ciudad es bonita.</strong></p>
+
+<p>IPA, standard careful pronunciation:</p>
+
+<p><code>/me ˈɡusta biˈβiɾ en ˈmalaɣa ˈpoɾke la θjuˈðað es boˈnita/</code></p>
+
+<h2>10. Málaga-Control Practice</h2>
+
+<p>
+These phrases are common in Málaga. Practice both understanding the local version and producing the standard version.
+</p>
+
+<table>
+<thead>
+<tr>
+<th>Phrase</th>
+<th>Possible Málaga-style Pronunciation</th>
+<th>Standard Castilian Target</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>los amigos</td>
+<td><code>[loh aˈmiɣoh]</code></td>
+<td><code>/los aˈmiɣos/</code></td>
+</tr>
+<tr>
+<td>gracias</td>
+<td><code>[ˈɡɾasja]</code> or <code>[ˈɡɾaθjah]</code></td>
+<td><code>/ˈɡɾaθjas/</code></td>
+</tr>
+<tr>
+<td>hasta luego</td>
+<td><code>[ˈahta ˈlweɣo]</code></td>
+<td><code>/ˈasta ˈlweɣo/</code></td>
+</tr>
+<tr>
+<td>estamos aquí</td>
+<td><code>[ehˈtamo aˈki]</code></td>
+<td><code>/esˈtamos aˈki/</code></td>
+</tr>
+<tr>
+<td>pescado</td>
+<td><code>[pehˈkao]</code></td>
+<td><code>/pesˈkaðo/</code></td>
+</tr>
+</tbody>
+</table>
+
+<h2>11. Daily Practice Routine</h2>
+
+<p>Use this 25–30 minute routine.</p>
+
+<h3>1. Vowel Warm-up: 3 minutes</h3>
+
+<p>Say slowly:</p>
+
+<p><code>/a e i o u/</code></p>
+
+<p>Then say:</p>
+
+<p><strong>pa pe pi po pu</strong><br>
+<strong>ta te ti to tu</strong><br>
+<strong>ka ke ki ko ku</strong></p>
+
+<h3>2. One Sound Focus: 7 minutes</h3>
+
+<p>Choose one difficult sound, for example <code>/r/</code>, <code>/ɾ/</code>, <code>/θ/</code>, or <code>/x/</code>.</p>
+
+<ol>
+<li>Say the sound alone.</li>
+<li>Say it in syllables.</li>
+<li>Say it in words.</li>
+<li>Say it in sentences.</li>
+<li>Record yourself and compare with native audio.</li>
+</ol>
+
+<h3>3. Minimal Pairs: 7 minutes</h3>
+
+<p>Choose one pair set:</p>
+
+<ul>
+<li><code>/ɾ/</code> vs <code>/r/</code>: pero/perro, caro/carro</li>
+<li><code>/s/</code> vs <code>/θ/</code>: casa/caza, tasa/taza</li>
+<li><code>/e/</code> vs <code>/i/</code>: peso/piso, mesa/misa</li>
+<li><code>/o/</code> vs <code>/u/</code>: coro/curo, solo/suelo-like practice</li>
+</ul>
+
+<h3>4. Shadowing: 10 minutes</h3>
+
+<p>
+Use native audio from Spain. For standard Castilian, choose speakers from Madrid, Castilla y León, Aragón, La Rioja, or similar regions.
+</p>
+
+<ol>
+<li>Listen once without speaking.</li>
+<li>Mark the stressed syllables.</li>
+<li>Repeat phrase by phrase.</li>
+<li>Speak at the same time as the audio.</li>
+<li>Record yourself and compare rhythm, vowels, and consonants.</li>
+</ol>
+
+<h3>5. Free Speech: 3 minutes</h3>
+
+<p>
+Talk about your day in Spanish while focusing on one target. Example target: pronounce every final <code>/s/</code> clearly.
+</p>
+
+<h2>12. Quick Diagnostic List</h2>
+
+<p>Record yourself reading these words:</p>
+
+<h3>Vowels</h3>
+
+<p>
+casa, mesa, vino, solo, luna, aire, bueno, tiene, cuatro, Europa
+</p>
+
+<h3>Consonants</h3>
+
+<p>
+pan, vino, beso, taza, dedo, casa, gato, familia, zapato, cinco, sol, jamón, gente, chico, mano, nada, niño, luna, pero, perro, rojo, llave, yo
+</p>
+
+<h3>Castilian Contrast Practice</h3>
+
+<p>
+casa/caza, tasa/taza, siento/ciento, pero/perro, caro/carro, vino/fino, año/ano
+</p>
+
+<h3>Reading Passage</h3>
+
+<p>
+<strong>
+Me llamo Carlos y vivo en Málaga. Me gusta caminar por la ciudad, tomar café con mis amigos y practicar español todos los días.
+Quiero hablar con una pronunciación clara, natural y correcta.
+</strong>
+</p>
+
+<p>Standard careful IPA:</p>
+
+<p>
+<code>/me ˈʝamo ˈkaɾlos i ˈbiβo en ˈmalaɣa. me ˈɡusta kamiˈnaɾ poɾ la θjuˈðað, toˈmaɾ kaˈfe kon mis aˈmiɣos i pɾaktiˈkaɾ espaˈɲol ˈtoðos los ˈdias. ˈkjeɾo aˈβlaɾ kon una pɾonunθjaˈθjon ˈklaɾa, natuˈɾal i koˈrekta/</code>
+</p>
+
+<h2>13. Best Practice Strategy</h2>
+
+<ol>
+<li><strong>Pick a target accent.</strong> For this guide: standard European/Castilian Spanish.</li>
+<li><strong>Keep vowels pure.</strong> This is one of the fastest ways to sound more Spanish.</li>
+<li><strong>Master dental <code>/t d/</code>.</strong> This immediately reduces an English accent.</li>
+<li><strong>Do not pronounce Spanish V like English V.</strong> Use <code>/b/</code> and soft <code>[β̞]</code>.</li>
+<li><strong>Practice <code>/ɾ/</code> and <code>/r/</code> separately.</strong> They can change meaning.</li>
+<li><strong>For Castilian Spanish, keep <code>/s/</code> and <code>/θ/</code> distinct.</strong></li>
+<li><strong>In Málaga, learn local pronunciation passively, but choose deliberately what you imitate.</strong></li>
+</ol>
+
+</body>
+</html>
